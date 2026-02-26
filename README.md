@@ -30,14 +30,14 @@ Vengo del mundo audiovisual, lo que me permite entender el código como una herr
 *Desarrollo con enfoque en diseño editorial y tipográfico.*
 - **El Reto:** Maquetación de alta fidelidad y jerarquía visual avanzada para portfolios creativos.
 - **Tech:** CSS Avanzado (Grid/Flexbox), Layout Design.
-- 🔗 [Ver en Portfolio](https://rdisquete.es/proyectos)
+- 🔗 [Ver en Portfolio](https://thepueblo.es/)
 
 ---
 
 ## 🛠️ Mi Stack Técnico
 - **Core:** React, JavaScript (ES6+), TypeScript.
 - **Estilo:** Tailwind CSS, Framer Motion, CSS Modules.
-- **Herramientas:** Git, Vite, Netlify, Figma.
+- **Herramientas:** Git, Vite, Netlify.
 
 ---
 
