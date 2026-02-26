@@ -26,7 +26,7 @@ Vengo del mundo audiovisual, lo que me permite entender el código como una herr
 - **Tech:** React, State Management, CSS Modules.
 - 🔗 [Probar Aplicación](https://armarioescenico.netlify.app/)
 
-### 🏛️ [The Pueblo Studio](https://github.com/RDisquete/The-PuebloStudio)
+### 🏛️ [The Pueblo Studio](https://github.com/RDisquete/ThePuebloStudio)
 *Desarrollo con enfoque en diseño editorial y tipográfico.*
 - **El Reto:** Maquetación de alta fidelidad y jerarquía visual avanzada para portfolios creativos.
 - **Tech:** CSS Avanzado (Grid/Flexbox), Layout Design.
