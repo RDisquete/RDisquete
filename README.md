@@ -8,6 +8,12 @@ Vengo del mundo audiovisual, lo que me permite entender el código como una herr
 
 ## 🚀 Proyectos Destacados
 
+### 🏛️ [The Pueblo Studio](https://github.com/RDisquete/ThePuebloStudio)
+*Desarrollo con enfoque en diseño editorial y tipográfico.*
+- **El Reto:** Maquetación de alta fidelidad y jerarquía visual avanzada para portfolios creativos.
+- **Tech:** CSS Avanzado (Grid/Flexbox), Layout Design.
+- 🔗 [Ver en Portfolio](https://thepueblo.es/)
+- 
 ### 🎵 [Matter & Sound](https://github.com/RDisquete/MatterSound)
 *Visualizador de audio en tiempo real.*
 - **El Reto:** Procesamiento de frecuencias mediante **Web Audio API** y renderizado dinámico en **Canvas**.
@@ -26,11 +32,7 @@ Vengo del mundo audiovisual, lo que me permite entender el código como una herr
 - **Tech:** React, State Management, CSS Modules.
 - 🔗 [Probar Aplicación](https://armarioescenico.netlify.app/)
 
-### 🏛️ [The Pueblo Studio](https://github.com/RDisquete/ThePuebloStudio)
-*Desarrollo con enfoque en diseño editorial y tipográfico.*
-- **El Reto:** Maquetación de alta fidelidad y jerarquía visual avanzada para portfolios creativos.
-- **Tech:** CSS Avanzado (Grid/Flexbox), Layout Design.
-- 🔗 [Ver en Portfolio](https://thepueblo.es/)
+
 
 ---
 
