@@ -1,19 +1,30 @@
 # Hola, soy Rafa (RDisquete) 👋
 
-### Frontend Developer | Enfoque en Interfaces Creativas y Experiencia de Usuario
+### Frontend Developer | React · TypeScript | UI & Web Performance
 
-Vengo del mundo audiovisual, lo que me permite entender el código como una herramienta para crear sensaciones. No soy diseñador, pero huyo de lo genérico: mi objetivo es que cada interfaz tenga una identidad visual potente, un rendimiento impecable y una lógica sólida.
+Llevo años trabajando con la imagen, pero hace tiempo que decidí que no solo quería crear contenido, sino construir las herramientas que lo sostienen.
 
+Mi día a día es el código. Me centro en React y TypeScript porque me gusta que las cosas no solo se vean bien, sino que funcionen y no se rompan. Mi experiencia previa en el sector audiovisual me ha dejado una "manía" que ahora es mi mayor ventaja: no soporto un pixel fuera de sitio ni una web que tarde en cargar más de lo necesario.
+
+¿Qué aporto? Lógica sólida (vengo de darle mucha caña a los algoritmos), conocimiento real de cómo optimizar multimedia en la web y un flujo de trabajo moderno donde la IA es una herramienta más para ir más rápido y entregar código más limpio.
+
+Si buscas a alguien que entienda el diseño pero piense como un programador, charlemos.
 ---
 
 ## 🚀 Proyectos Destacados
+
+### 🕊️ [Wedding Demo — R&M 2026](https://github.com/RDisquete/InvitacionDemo)
+*Experiencia digital premium diseñada para invitaciones de boda.*
+- **El Reto:** Combinar estética editorial con backend en tiempo real para gestionar momentos compartidos de forma privada.
+- **Tech:** React, Supabase (Auth/Bucket), Framer Motion, Tailwind CSS.
+- 🔗 [Ver Proyecto](https://github.com/RDisquete/InvitacionDemo)
 
 ### 🏛️ [The Pueblo Studio](https://github.com/RDisquete/ThePuebloStudio)
 *Desarrollo con enfoque en diseño editorial y tipográfico.*
 - **El Reto:** Maquetación de alta fidelidad y jerarquía visual avanzada para portfolios creativos.
 - **Tech:** CSS Avanzado (Grid/Flexbox), Layout Design.
 - 🔗 [Ver en Portfolio](https://thepueblo.es/)
-- 
+  
 ### 🎵 [Matter & Sound](https://github.com/RDisquete/MatterSound)
 *Visualizador de audio en tiempo real.*
 - **El Reto:** Procesamiento de frecuencias mediante **Web Audio API** y renderizado dinámico en **Canvas**.
@@ -32,13 +43,12 @@ Vengo del mundo audiovisual, lo que me permite entender el código como una herr
 - **Tech:** React, State Management, CSS Modules.
 - 🔗 [Probar Aplicación](https://armarioescenico.netlify.app/)
 
-
-
 ---
 
 ## 🛠️ Mi Stack Técnico
 - **Core:** React, JavaScript (ES6+), TypeScript.
 - **Estilo:** Tailwind CSS, Framer Motion, CSS Modules.
+- **Backend/Data:** Supabase (Auth & Database).
 - **Herramientas:** Git, Vite, Netlify.
 
 ---
