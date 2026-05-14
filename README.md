@@ -32,6 +32,24 @@ Tech: React, Supabase, Framer Motion, Tailwind
 
 ---
 
+### 🚁 skyRESERVE
+
+Plataforma de reservas para servicios profesionales de drones.
+
+- Sistema completo de reservas y disponibilidad  
+
+- Autenticación, roles y panel administrativo  
+
+- Arquitectura modular y estado global con Zustand  
+
+- Testing, responsive design y dark mode  
+
+Tech: React 19, TypeScript, Supabase, Zustand, Tailwind, Framer Motion, Vitest  
+
+🔗 https://sky-reserve.netlify.app/
+
+---
+
 ### ⚡ Infra.RD
 
 Sistema de monitorización de servicios.
